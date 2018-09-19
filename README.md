@@ -1,3 +1,8 @@
+# React Redux Shopping Cart
+
+Shopping cart checkout created with React-Redux. Simple application which took hardcoded data and is able to perform simple calculation for the discount by using functionality of Redux. A good representation of React-Redux structure.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
